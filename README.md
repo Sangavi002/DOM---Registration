@@ -1,1 +1,1 @@
-# DOM---Registration
+# DOM-Registration
